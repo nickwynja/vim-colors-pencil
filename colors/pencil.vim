@@ -327,7 +327,7 @@ call s:h("mkdBlockQuote",               {"fg": s:norm})
 call s:h("mkdDelimiter",                {"fg": s:medium_gray})
 call s:h("mkdID",                       {"fg": s:medium_gray})
 call s:h("mkdLineContinue",             {"fg": s:norm})
-call s:h("mkdLink",                     {"fg": s:norm})
+call s:h("mkdLink",                     {"fg": s:blue})
 call s:h("mkdLinkDef",                  {"fg": s:medium_gray})
 call s:h("mkdListItem",                 {"fg": s:norm})
 call s:h("mkdNonListItemBlock",         {"fg": s:norm})  " bug in syntax?
